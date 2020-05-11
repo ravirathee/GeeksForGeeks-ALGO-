@@ -7,13 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2801AF762467F23000FABC84 /* 2 Search in a Rotated Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF752467F23000FABC84 /* 2 Search in a Rotated Array.cpp */; };
+		2801AF782467F7FB00FABC84 /* 3 Search in a Rotated Array w duplicates.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF772467F7FB00FABC84 /* 3 Search in a Rotated Array w duplicates.cpp */; };
+		2801AF7A246801B400FABC84 /* 4 Rotation Count in Rotated Sorted array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF79246801B400FABC84 /* 4 Rotation Count in Rotated Sorted array.cpp */; };
+		2801AF7C24681B3500FABC84 /* 5 Count elements <= X in a rotated array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF7B24681B3500FABC84 /* 5 Count elements <= X in a rotated array.cpp */; };
+		2801AF7E2468294800FABC84 /* 5.1 Square Root using BS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF7D2468294800FABC84 /* 5.1 Square Root using BS.cpp */; };
+		2801AF84246836E900FABC84 /* 5.2 Exponentiation using BS.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF83246836E900FABC84 /* 5.2 Exponentiation using BS.cpp */; };
+		2801AF862468370600FABC84 /* 6 Bishu And Soldiers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF852468370600FABC84 /* 6 Bishu And Soldiers.cpp */; };
+		2801AF8A2469862D00FABC84 /* 7 Aggressive cows.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF892469862D00FABC84 /* 7 Aggressive cows.cpp */; };
+		2801AF8C2469976800FABC84 /* 8 BOOKS1 - Copying Books.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF8B2469976800FABC84 /* 8 BOOKS1 - Copying Books.cpp */; };
 		280823FD24460B6900A76AB5 /* 1 Find Transition Point.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 280823FC24460B6900A76AB5 /* 1 Find Transition Point.cpp */; };
 		280823FF24460C2200A76AB5 /* 2 Good Pairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 280823FE24460C2200A76AB5 /* 2 Good Pairs.cpp */; };
 		280824012446333B00A76AB5 /* temp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 280824002446333B00A76AB5 /* temp.cpp */; };
+		283E03DA246371F3005FD8DA /* 0.2 UpperLowerBound.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 283E03D9246371F3005FD8DA /* 0.2 UpperLowerBound.cpp */; };
+		283E03DD24646938005FD8DA /* 0.3 STL UpperLowerBound.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 283E03DB24646938005FD8DA /* 0.3 STL UpperLowerBound.cpp */; };
 		288AC1FC2445AFA100691B56 /* startingFile.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 288AC1FB2445AFA100691B56 /* startingFile.cpp */; };
 		288AC2092445B0A400691B56 /* Leaders in an Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 288AC2082445B0A400691B56 /* Leaders in an Array.cpp */; };
 		288AC20E2445B13100691B56 /* Subarray with given sum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 288AC20D2445B13100691B56 /* Subarray with given sum.cpp */; };
-		28BC8E1924609ACB009F5D56 /* binarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 28BC8E1824609ACB009F5D56 /* binarySearch.cpp */; };
+		28BC8E1924609ACB009F5D56 /* 0.1 binarySearch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 28BC8E1824609ACB009F5D56 /* 0.1 binarySearch.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,16 +58,28 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2801AF732467550B00FABC84 /* 1 PivotElement.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1 PivotElement.cpp"; sourceTree = "<group>"; };
+		2801AF752467F23000FABC84 /* 2 Search in a Rotated Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2 Search in a Rotated Array.cpp"; sourceTree = "<group>"; };
+		2801AF772467F7FB00FABC84 /* 3 Search in a Rotated Array w duplicates.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3 Search in a Rotated Array w duplicates.cpp"; sourceTree = "<group>"; };
+		2801AF79246801B400FABC84 /* 4 Rotation Count in Rotated Sorted array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4 Rotation Count in Rotated Sorted array.cpp"; sourceTree = "<group>"; };
+		2801AF7B24681B3500FABC84 /* 5 Count elements <= X in a rotated array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5 Count elements <= X in a rotated array.cpp"; sourceTree = "<group>"; };
+		2801AF7D2468294800FABC84 /* 5.1 Square Root using BS.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5.1 Square Root using BS.cpp"; sourceTree = "<group>"; };
+		2801AF83246836E900FABC84 /* 5.2 Exponentiation using BS.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5.2 Exponentiation using BS.cpp"; sourceTree = "<group>"; };
+		2801AF852468370600FABC84 /* 6 Bishu And Soldiers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6 Bishu And Soldiers.cpp"; sourceTree = "<group>"; };
+		2801AF892469862D00FABC84 /* 7 Aggressive cows.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7 Aggressive cows.cpp"; sourceTree = "<group>"; };
+		2801AF8B2469976800FABC84 /* 8 BOOKS1 - Copying Books.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "8 BOOKS1 - Copying Books.cpp"; sourceTree = "<group>"; };
 		280823FC24460B6900A76AB5 /* 1 Find Transition Point.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1 Find Transition Point.cpp"; sourceTree = "<group>"; };
 		280823FE24460C2200A76AB5 /* 2 Good Pairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "2 Good Pairs.cpp"; sourceTree = "<group>"; };
 		280824002446333B00A76AB5 /* temp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = temp.cpp; sourceTree = "<group>"; };
-		288AC1F82445AFA100691B56 /* GeeksForGeeks(ALGO) */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "GeeksForGeeks(ALGO)"; sourceTree = BUILT_PRODUCTS_DIR; };
+		283E03D9246371F3005FD8DA /* 0.2 UpperLowerBound.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "0.2 UpperLowerBound.cpp"; sourceTree = "<group>"; };
+		283E03DB24646938005FD8DA /* 0.3 STL UpperLowerBound.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "0.3 STL UpperLowerBound.cpp"; sourceTree = "<group>"; };
+		288AC1F82445AFA100691B56 /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		288AC1FB2445AFA100691B56 /* startingFile.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = startingFile.cpp; sourceTree = "<group>"; };
 		288AC2062445B0A400691B56 /* Searching */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Searching; sourceTree = BUILT_PRODUCTS_DIR; };
 		288AC2082445B0A400691B56 /* Leaders in an Array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Leaders in an Array.cpp"; sourceTree = "<group>"; };
 		288AC20D2445B13100691B56 /* Subarray with given sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Subarray with given sum.cpp"; sourceTree = "<group>"; };
 		28BC8E1124609097009F5D56 /* BinarySearch */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BinarySearch; sourceTree = BUILT_PRODUCTS_DIR; };
-		28BC8E1824609ACB009F5D56 /* binarySearch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = binarySearch.cpp; sourceTree = "<group>"; };
+		28BC8E1824609ACB009F5D56 /* 0.1 binarySearch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "0.1 binarySearch.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +110,7 @@
 		288AC1EF2445AFA100691B56 = {
 			isa = PBXGroup;
 			children = (
-				288AC1FA2445AFA100691B56 /* GeeksForGeeks(ALGO) */,
+				288AC1FA2445AFA100691B56 /* Algorithms */,
 				288AC2072445B0A400691B56 /* Searching(Easy) */,
 				28BC8E1224609097009F5D56 /* BinarySearch */,
 				288AC1F92445AFA100691B56 /* Products */,
@@ -97,19 +120,19 @@
 		288AC1F92445AFA100691B56 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				288AC1F82445AFA100691B56 /* GeeksForGeeks(ALGO) */,
+				288AC1F82445AFA100691B56 /* Algorithms */,
 				288AC2062445B0A400691B56 /* Searching */,
 				28BC8E1124609097009F5D56 /* BinarySearch */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		288AC1FA2445AFA100691B56 /* GeeksForGeeks(ALGO) */ = {
+		288AC1FA2445AFA100691B56 /* Algorithms */ = {
 			isa = PBXGroup;
 			children = (
 				288AC1FB2445AFA100691B56 /* startingFile.cpp */,
 			);
-			path = "GeeksForGeeks(ALGO)";
+			path = Algorithms;
 			sourceTree = "<group>";
 		};
 		288AC2072445B0A400691B56 /* Searching(Easy) */ = {
@@ -127,7 +150,19 @@
 		28BC8E1224609097009F5D56 /* BinarySearch */ = {
 			isa = PBXGroup;
 			children = (
-				28BC8E1824609ACB009F5D56 /* binarySearch.cpp */,
+				28BC8E1824609ACB009F5D56 /* 0.1 binarySearch.cpp */,
+				283E03D9246371F3005FD8DA /* 0.2 UpperLowerBound.cpp */,
+				283E03DB24646938005FD8DA /* 0.3 STL UpperLowerBound.cpp */,
+				2801AF732467550B00FABC84 /* 1 PivotElement.cpp */,
+				2801AF752467F23000FABC84 /* 2 Search in a Rotated Array.cpp */,
+				2801AF772467F7FB00FABC84 /* 3 Search in a Rotated Array w duplicates.cpp */,
+				2801AF79246801B400FABC84 /* 4 Rotation Count in Rotated Sorted array.cpp */,
+				2801AF7B24681B3500FABC84 /* 5 Count elements <= X in a rotated array.cpp */,
+				2801AF7D2468294800FABC84 /* 5.1 Square Root using BS.cpp */,
+				2801AF83246836E900FABC84 /* 5.2 Exponentiation using BS.cpp */,
+				2801AF852468370600FABC84 /* 6 Bishu And Soldiers.cpp */,
+				2801AF892469862D00FABC84 /* 7 Aggressive cows.cpp */,
+				2801AF8B2469976800FABC84 /* 8 BOOKS1 - Copying Books.cpp */,
 			);
 			path = BinarySearch;
 			sourceTree = "<group>";
@@ -135,9 +170,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		288AC1F72445AFA100691B56 /* GeeksForGeeks(ALGO) */ = {
+		288AC1F72445AFA100691B56 /* Algorithms */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 288AC1FF2445AFA100691B56 /* Build configuration list for PBXNativeTarget "GeeksForGeeks(ALGO)" */;
+			buildConfigurationList = 288AC1FF2445AFA100691B56 /* Build configuration list for PBXNativeTarget "Algorithms" */;
 			buildPhases = (
 				288AC1F42445AFA100691B56 /* Sources */,
 				288AC1F52445AFA100691B56 /* Frameworks */,
@@ -147,9 +182,9 @@
 			);
 			dependencies = (
 			);
-			name = "GeeksForGeeks(ALGO)";
+			name = Algorithms;
 			productName = "GeeksForGeeks(ALGO)";
-			productReference = 288AC1F82445AFA100691B56 /* GeeksForGeeks(ALGO) */;
+			productReference = 288AC1F82445AFA100691B56 /* Algorithms */;
 			productType = "com.apple.product-type.tool";
 		};
 		288AC2052445B0A400691B56 /* Searching */ = {
@@ -206,7 +241,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 288AC1F32445AFA100691B56 /* Build configuration list for PBXProject "GeeksForGeeks(ALGO)" */;
+			buildConfigurationList = 288AC1F32445AFA100691B56 /* Build configuration list for PBXProject "Algorithms" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -219,7 +254,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				288AC1F72445AFA100691B56 /* GeeksForGeeks(ALGO) */,
+				288AC1F72445AFA100691B56 /* Algorithms */,
 				288AC2052445B0A400691B56 /* Searching */,
 				28BC8E1024609097009F5D56 /* BinarySearch */,
 			);
@@ -251,7 +286,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				28BC8E1924609ACB009F5D56 /* binarySearch.cpp in Sources */,
+				2801AF7A246801B400FABC84 /* 4 Rotation Count in Rotated Sorted array.cpp in Sources */,
+				2801AF782467F7FB00FABC84 /* 3 Search in a Rotated Array w duplicates.cpp in Sources */,
+				28BC8E1924609ACB009F5D56 /* 0.1 binarySearch.cpp in Sources */,
+				2801AF742467550B00FABC84 /* 1 PivotElement.cpp in Sources */,
+				2801AF8C2469976800FABC84 /* 8 BOOKS1 - Copying Books.cpp in Sources */,
+				2801AF7C24681B3500FABC84 /* 5 Count elements <= X in a rotated array.cpp in Sources */,
+				2801AF8A2469862D00FABC84 /* 7 Aggressive cows.cpp in Sources */,
+				2801AF762467F23000FABC84 /* 2 Search in a Rotated Array.cpp in Sources */,
+				283E03DA246371F3005FD8DA /* 0.2 UpperLowerBound.cpp in Sources */,
+				283E03DD24646938005FD8DA /* 0.3 STL UpperLowerBound.cpp in Sources */,
+				2801AF7E2468294800FABC84 /* 5.1 Square Root using BS.cpp in Sources */,
+				2801AF862468370600FABC84 /* 6 Bishu And Soldiers.cpp in Sources */,
+				2801AF84246836E900FABC84 /* 5.2 Exponentiation using BS.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -424,7 +471,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		288AC1F32445AFA100691B56 /* Build configuration list for PBXProject "GeeksForGeeks(ALGO)" */ = {
+		288AC1F32445AFA100691B56 /* Build configuration list for PBXProject "Algorithms" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				288AC1FD2445AFA100691B56 /* Debug */,
@@ -433,7 +480,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		288AC1FF2445AFA100691B56 /* Build configuration list for PBXNativeTarget "GeeksForGeeks(ALGO)" */ = {
+		288AC1FF2445AFA100691B56 /* Build configuration list for PBXNativeTarget "Algorithms" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				288AC2002445AFA100691B56 /* Debug */,
