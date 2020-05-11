@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2801AF742467550B00FABC84 /* 1 PivotElement.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF732467550B00FABC84 /* 1 PivotElement.cpp */; };
 		2801AF762467F23000FABC84 /* 2 Search in a Rotated Array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF752467F23000FABC84 /* 2 Search in a Rotated Array.cpp */; };
 		2801AF782467F7FB00FABC84 /* 3 Search in a Rotated Array w duplicates.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF772467F7FB00FABC84 /* 3 Search in a Rotated Array w duplicates.cpp */; };
 		2801AF7A246801B400FABC84 /* 4 Rotation Count in Rotated Sorted array.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2801AF79246801B400FABC84 /* 4 Rotation Count in Rotated Sorted array.cpp */; };
